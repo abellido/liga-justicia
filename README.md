@@ -2,4 +2,4 @@
 
 Este proyecto sirve para hacer pruebas con git y gitHub.
 
-## Estos cambios son nuevos
+## Estos cambios son nuevos desde GitHub
